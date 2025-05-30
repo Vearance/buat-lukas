@@ -1,0 +1,7 @@
+faiss-cpu
+sentence-transformers
+openai
+nltk
+numpy
+sklearn
+python-dotenv
